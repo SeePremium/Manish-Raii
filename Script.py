@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = """<b>ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴍᴏᴠɪᴇs ᴘʀᴏᴠɪᴅᴇʀ ɪɴ ᴀᴅᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ
-    ᴅᴇᴠᴇʟᴏᴘᴇʀ - @sunnyseee...</b>"""
+    START_TXT = """<b>ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ & ʟɪɴᴋ sʜᴏʀᴛɴᴇʀ...</b>"""
 
     MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
